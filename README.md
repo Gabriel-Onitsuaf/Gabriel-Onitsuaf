@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Gabriel Flores
 
-<!--
-**Gabriel-Onitsuaf/Gabriel-Onitsuaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Java Fullstack Jr enfocado en crear aplicaciones web claras,
+funcionales y bien estructuradas.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías
+- Java
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portafolio
+👉 https://gabriel-onitsuaf.github.io/portafolio-web/
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/onitsuafdeveloperjr
+- Email: gabrielonitsuaf@gmail.com
+
