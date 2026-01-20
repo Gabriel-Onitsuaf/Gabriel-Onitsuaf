@@ -11,7 +11,7 @@ funcionales y bien estructuradas.
 - Bootstrap
 
 ## 🌐 Portafolio
-👉 https://gabriel-onitsuaf.github.io/portafolio-web/
+👉 https://gabriel-onitsuaf.github.io/portafolio-web/](https://github.com/Gabriel-Onitsuaf/portafolio-web
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/onitsuafdeveloperjr
