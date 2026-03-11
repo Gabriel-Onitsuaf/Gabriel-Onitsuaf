@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Gabriel%20Flores%20-%20Java%20Fullstack%20Developer&fontSize=35&fontColor=ffffff)
 
-# 👋 Hola, soy Gabriel Flores
+
 
 💻 Desarrollador Java Fullstack Jr enfocado en construir aplicaciones web claras, funcionales y bien estructuradas.
 
