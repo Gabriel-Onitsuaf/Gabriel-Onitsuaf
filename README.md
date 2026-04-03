@@ -68,7 +68,3 @@ https://www.linkedin.com/in/onitsuafdeveloperjr
 
 📧 Email
 [gabrielonitsuaf@gmail.com](mailto:gabrielonitsuaf@gmail.com)
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-onitsuaf&layout=compact&theme=tokyonight)
